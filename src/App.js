@@ -1,12 +1,13 @@
 import "./App.css";
+import Feed from "./Feed";
 import Sidebar from "./Sidebar";
 
 function App() {
   return (
-    <div>
-      <h2>This is Twitter</h2>
-    
+    <div className="app">
+      
       <Sidebar />
+      <Feed/>
       
     </div>
   );
