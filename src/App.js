@@ -1,8 +1,9 @@
-import { Widgets } from "@material-ui/icons";
+// import { Widgets } from "@material-ui/icons";
 import "./App.css";
 import Feed from "./Feed";
-import Post from "./Post";
+// import Post from "./Post";
 import Sidebar from "./Sidebar";
+import Widgets from './Widgets'
 
 function App() {
   return (
